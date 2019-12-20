@@ -105,6 +105,7 @@
 > Bioinformatics Curriculum:\
 > [UC San Diego](https://ucsd.edu/catalog/curric/BIOI-gr.html)\
 > [Manchester](https://www.manchester.ac.uk/study/masters/courses/list/08854/msc-bioinformatics-and-systems-biology/course-details/)
+> [Copenhagen](https://studies.ku.dk/masters/bioinformatics/programme-structure/)
 
 ### 2 Biostatistics
 
